@@ -11,3 +11,4 @@ maior_numero(b=9, a=3)
 
 def main():
     # aqui meu code principal
+    pass
