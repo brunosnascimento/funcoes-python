@@ -11,3 +11,6 @@ def calculadora(a, b, operacao):
 
 
 print(calculadora(4, 2, "+"))
+print(calculadora(4, 2, "-"))
+print(calculadora(4, 2, "*"))
+print(calculadora(4, 2, "/"))
